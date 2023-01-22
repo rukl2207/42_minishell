@@ -1,0 +1,11 @@
+.DS_Store
+*temp*
+*tmp*
+*test*
+*.out
+subject
+*.o
+*.txt
+.vscode/
+*.a
+minishell
